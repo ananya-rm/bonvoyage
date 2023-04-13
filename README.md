@@ -1,4 +1,4 @@
-BonVoyage- a console application for tours and travels company
+BonVoyage- a console application for tours and travels company.
 This project is developed using the object oriented programming concepts of Java.
 
 Steps to run this project:
